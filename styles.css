@@ -1,0 +1,17 @@
+:root {
+    --background: #D81855;
+    --header: #FFF83A;
+    --text: #FFFFFF;
+    --accent: #0FFFD3
+}
+
+p {
+    font-family: 'Ramaraja', serif;
+    font-family: 'Jost', sans-serif;
+}
+
+h1, 
+h2, 
+h3 {
+    font-family: 'Ramaraja', serif;
+}
